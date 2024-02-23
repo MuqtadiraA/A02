@@ -38,9 +38,11 @@
       <li><strong>Repository: </strong>A storage location where code and related files are kept.</li>
     </ol>
     <h3>References</h3>
-  <a href="https://www.jetbrains.com/webstorm/download/">JetBrains website</a>
-  <a href="https://www.jetbrains.com/help/webstorm/github.html">Register a GitHub account</a>
-  <a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary">GitHub Glossary</a>
+   <ol>
+     <li><a href="https://www.jetbrains.com/webstorm/download/">JetBrains website</a></li>
+     <li><a href="https://www.jetbrains.com/help/webstorm/github.html">Register a GitHub account</a></li>
+     <li><a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary">GitHub Glossary</a></li>
+   </ol>
 </body>
 
 </html>
