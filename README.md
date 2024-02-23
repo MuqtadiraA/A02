@@ -9,10 +9,15 @@
     <p>What is Webstorm.</p>
     <h3>Steps on Using Webstorm</h3>
     <ol>
-      <li><strong>Step 1:</strong> First you want to </li>
-      <li><strong>Step 2:</strong> Second </li>
-      <li><strong>Step 3:</strong> Third </li>
-      <li><strong>Step 4:</strong> Forth</li>
+      <li><strong>Installation: </strong> First you want to visit <a href="https://www.jetbrains.com/webstorm/download/" target="_blank">JetBrains website</a> to download the WebStorm IDE, then follow the instruction regarding your operating system.</li>
+      <li><strong>Launch WebStorm:</strong> Open WebStorm after installation.</li>
+      <li><strong>New Project:</strong> Click on "Create New Project" or "File" > "New" > "Project" to start a new project. Choose your project location and name.</li>
+      <li><strong>Git Repository:</strong>  Go to "VCS" > "Import into Version Control" > "Create Git Repository". Select your project directory and click "OK" to initialize the Git repository.</li>
+      <li><strong>Start Coding:</strong> Begin writing your code within the WebStorm area</li>
+      <li><strong>Changing Your Code:</strong> After making changes to your code, go to "VCS" > "Git" > "Add" to stage changes for commit.</li>
+      <li><strong>Commit:</strong> To commit (save) staged changes, go to "VCS" > "Commit". You may enter a commit message describing your changes and click "Commit".</li>
+      <li><strong>Push Changes:</strong> To connect your project to a GitHub repository, go to "VCS" > "Import into Version Control" > "Share Project on GitHub" and follow the prompts. After, go to "VCS" > "Git" > "Push" to push your committed changes to GitHub.</li>
+      <li><strong>Pull Changes:</strong> To pull changes from GitHub, go to "VCS" > "Git" > "Pull" to sync your local repository with the remote.</li>
     </ol>
     <h3>Helpful Urls</h3>
  <p> Something</p>
