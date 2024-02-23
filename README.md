@@ -19,9 +19,6 @@
       <li><strong>Push Changes:</strong> To connect your project to a GitHub repository, go to "VCS" > "Import into Version Control" > "Share Project on GitHub" and follow the prompts. After, go to "VCS" > "Git" > "Push" to push your committed changes to GitHub.</li>
       <li><strong>Pull Changes:</strong> To pull changes from GitHub, go to "VCS" > "Git" > "Pull" to sync your local repository with the remote.</li>
     </ol>
-    <h3>Helpful Urls</h3>
- <p> Something</p>
-   <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>
      </div>
 <div id="part 2">
     <h2>Terms</h2>
@@ -41,9 +38,9 @@
       <li><strong>Repository: </strong>A storage location where code and related files are kept.</li>
     </ol>
     <h3>References</h3>
- <p> Something</p>
-   <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>
-    </div>
+  <a href="https://www.jetbrains.com/webstorm/download/">JetBrains website</a>
+  <a href="https://www.jetbrains.com/help/webstorm/github.html">Register a GitHub account</a>
+  <a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary">GitHub Glossary</a>
 </body>
 
 </html>
