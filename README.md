@@ -6,7 +6,7 @@
 <body>
   <div id="part 1">
     <h2>Directions on Using Git and GitHub with WebStorm</h2>
-    <p>What is Webstorm.</p>
+    <p>WebStorm is a web development IDE created by JetBrains, offering tools and features tailored for coding in languages like HTML, CSS, and JavaScript. It provides code completion, debugging, and version control integration to streamline the development process.</p>
     <h3>Steps on Using Webstorm</h3>
     <ol>
       <li><strong>Installation: </strong> First you want to visit <a href="https://www.jetbrains.com/webstorm/download/" target="_blank">JetBrains website</a> to download the WebStorm IDE, then follow the instruction regarding your operating system.</li>
